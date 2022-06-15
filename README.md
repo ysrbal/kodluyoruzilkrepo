@@ -28,6 +28,6 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 
 [MIT](http://choosealicense.com)
 
-![proje_gorseli](https://picsum.photos/200/300)
+![proje_gorseli](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/markdown.png)
 
 
